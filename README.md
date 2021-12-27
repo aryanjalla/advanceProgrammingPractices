@@ -24,13 +24,6 @@ All of my labwork done as part of Advanced Programming Practice (18CSC207J) lab.
 
 - Python
 
-<br>
-<p align="center"><img src="https://img.shields.io/badge/Contributors-black?logo=github&style=for-the-badge" />
-<p>
-  <a href="https://github.com/ComputerScientist-01/Advanced-Programming-Practice/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=ComputerScientist-01/Advanced-Programming-Practice" />
-  </a>
-</p>
 
 
 
